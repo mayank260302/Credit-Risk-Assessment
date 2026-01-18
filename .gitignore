@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore all data (VERY IMPORTANT)
+data/
+data/**
+
+# Ignore outputs
+outputs/
+outputs/**
+
+# OS files
+.DS_Store
+Thumbs.db
